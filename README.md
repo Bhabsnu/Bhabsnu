@@ -71,3 +71,27 @@
   <a href="https://www.linkedin.com/in/minkyoung-koo-9186172a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mink1836@snu.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
+
+## Profile in CLI
+
+Clone this repository:
+
+```sh
+git clone https://github.com/Bhabsnu/CLIckMe-Codex.git
+```
+
+Install the dependencies:
+
+```sh
+python -m venv cli
+
+cli\Scripts\activate.bat
+
+pip install click colorama pyfiglet rich
+```
+
+Usage:
+
+```sh
+python developer/cli-profile.py
+```
