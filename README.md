@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi, I'm Minkyoung!</h1>
 <p align="left">
-  🌱 Passionate about <b>AI</b> and <b>Data Analysis</b>
+  🌱 Passionate about <b>AI</b> and <b>Data Analysis</b><br>
   📍 Located in Korea
 </p>
 
